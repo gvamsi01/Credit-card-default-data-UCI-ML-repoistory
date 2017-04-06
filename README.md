@@ -27,3 +27,6 @@ X6 - X11: History of past payment. We tracked the past monthly payment records (
 X12-X17: Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005. 
 
 X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005. 
+
+#### Contact 
+For any queries contact **vamsi grandhi** on gvamsi01@gmail.com | +65-87329144
